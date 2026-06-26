@@ -31,7 +31,7 @@ git clone https://github.com/Bmsileriche/mon_blog.git
 2. Se placer dans le dossier du projet :
 
 
-cd mon_blog
+cd workspace_django
 
 
 3. Créer un environnement virtuel :
